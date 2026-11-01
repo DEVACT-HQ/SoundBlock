@@ -6,7 +6,7 @@ It was developed for streamers who use voice changers. In this setup, Discord ca
 
 ## Download
 
-[Download SoundBlock for Windows](https://github.com/DEVACT-HQ/SoundBlock/raw/main/SoundBlock.exe)
+[Download SoundBlock for Windows](https://github.com/DEVACT-HQ/SoundBlock/releases/latest/download/SoundBlock.exe)
 
 Save the file to a folder such as Documents and open it. The first time you open SoundBlock, Windows may show a security notice because it does not yet recognize the publisher. Select **More info**, then **Run anyway**.
 
