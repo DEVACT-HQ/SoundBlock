@@ -6,9 +6,9 @@ SoundBlock lets you choose which applications can use each audio device on your 
 
 ## Why it exists
 
-SoundBlock was developed for streamers who use voice changers. Discord's desktop stream records devices that other apps play on. If your voice passes through one of them, such as Voicemod's `Dummy Output`, your viewers hear you twice.
+Some microphone software sends your voice through an audio device that Windows treats as a speaker. Voice changers such as Voicemod can do this, and so can the software of some microphones. Discord's desktop stream and other streaming software then record that device like any other sound output, so your microphone loops back into the stream and your viewers hear you twice.
 
-Windows has a fix: you can mute Discord on that one device in the volume mixer. But Windows remembers that setting for the exact folder a program runs from, and Discord's folder changes with every update. So after each Discord update the setting is gone, and your viewers hear you twice again.
+Windows has a fix: you can mute the app on that one device in the volume mixer. But Windows remembers that setting for the exact folder a program runs from, and some apps, such as Discord, change folder with every update. So after each update the setting is gone, and your viewers hear you twice again.
 
 SoundBlock keeps the block in place for you, for any app on any device.
 
