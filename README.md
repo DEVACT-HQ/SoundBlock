@@ -20,6 +20,6 @@ SoundBlock keeps running after you close its window. You can reopen it from its 
 
 ## About
 
-SoundBlock is developed by [Devact UG (haftungsbeschränkt)](https://www.devact.de).
+SoundBlock is developed by Devact. To report a security problem, see [SECURITY.md](SECURITY.md).
 
-© 2026 Devact UG (haftungsbeschränkt). All rights reserved.
+© 2026 Devact. All rights reserved.
