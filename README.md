@@ -18,8 +18,12 @@ Save the file to a folder such as Documents and open it. The first time you open
 
 SoundBlock keeps running after you close its window. You can reopen it from its icon near the clock on your taskbar. When a new version is available, an **Update** button appears at the bottom right of the window.
 
+SoundBlock has no account and collects no data. To find new versions it checks GitHub, which sees your IP address when it does. To stop this, right-click its icon and turn off **Check for updates**.
+
 ## About
 
-SoundBlock is developed by Devact. To report a security problem, see [SECURITY.md](SECURITY.md).
+SoundBlock is developed by Devact. See the [imprint, privacy notice and terms of use](LEGAL.md). To report a security problem, see [SECURITY.md](SECURITY.md).
+
+SoundBlock is not affiliated with Discord, Voicemod or any other app it works with.
 
 © 2026 Devact. All rights reserved.
